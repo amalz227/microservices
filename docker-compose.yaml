@@ -1,0 +1,6 @@
+services:
+commonuser :
+images: mycommomuser 
+ports:
+ - 8000:8000
+
